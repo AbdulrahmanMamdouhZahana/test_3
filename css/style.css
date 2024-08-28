@@ -132,7 +132,7 @@ transform: translateX(8px);
 .img {
     position: absolute;
     top: 20%;
-    transform: translate(160%, -120px);
+    transform: translate(135%, -120px);
     
 }
 
@@ -162,7 +162,7 @@ transform: translateX(8px);
     height: 40px;
     background-color: #4d9559;
     position: absolute;
-    bottom: -50%;
+    bottom: -45%;
     right:-150%;
     transition: all .55s ease;
     border-radius: 10px;
